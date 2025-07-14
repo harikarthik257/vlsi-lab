@@ -9,7 +9,7 @@ Simulated a CMOS inverter using **Synopsys Custom Compiler** and **SAED 32/28nm 
 - Linux Terminal
 
 ## 📸 Schematic
-_Add schematic image here once uploaded._
+![CMOS Inverter Schematic](inverter_schematic.jpg)
 
 ## ✅ Output & Observations
 - Logic verified: Inverter performs correct voltage inversion
